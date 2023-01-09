@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with creating a blog within the IndieWeb sphere that incorporates webmentions. Hexo. Headless CMS(tried Strapi so far might look into Ghost).
 - 💬 Ask me about hot sauce.
 - 📫 How to reach me: willprouty@gmail.com
-  - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: (lightmode)Floral designer | Front-end dev(darkmode)
 
 <!--
