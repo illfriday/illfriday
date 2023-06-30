@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on interesting, beginner open source projects.
 - 🤔 I’m looking for help with creating a blog within the IndieWeb sphere that incorporates webmentions. Hexo. Headless CMS(tried Strapi so far might look into Ghost).
 - 💬 Ask me about the secret hot sauce.
-- [Resume](https://drive.google.com/file/d/1YUMQQIjCe76a7YOnKDHwAxmltCQqmVkz/view?usp=sharing)
+- [Resume]([https://drive.google.com/file/d/1YUMQQIjCe76a7YOnKDHwAxmltCQqmVkz/view?usp=sharing](https://drive.google.com/file/d/1ZjP68FwM_tH9WXvgj5vM4gG7hqQZIyh6/view?usp=drive_link))
 - 📫 How to reach me: willprouty@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: (lightmode)Floral designer | Front-end dev(darkmode)
